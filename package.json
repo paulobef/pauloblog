@@ -1,0 +1,22 @@
+{
+  "name": "pauloblog",
+  "version": "1.0.0",
+  "description": "pauloblog is the official paulobef blog build using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulobef/pauloblog.git"
+  },
+  "author": "paulobef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulobef/pauloblog/issues"
+  },
+  "homepage": "https://github.com/paulobef/pauloblog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
